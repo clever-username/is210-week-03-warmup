@@ -7,3 +7,5 @@ FHANDLER = open('war_and_peace.txt', 'r')
 WORDS = FHANDLER.read()
 
 FHANDLER.close()
+
+WORDCT = WORDS.split(' ') 

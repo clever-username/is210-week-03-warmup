@@ -4,3 +4,6 @@
 
 
 WILL_ROBINSON = 'Danger Will Robinson!'
+
+KLAXON = WILL_ROBINSON[slice(0, 6)]
+
