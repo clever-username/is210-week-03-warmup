@@ -8,4 +8,4 @@ WORDS = FHANDLER.read()
 
 FHANDLER.close()
 
-WORDCT = WORDS.split(' ') 
+len(WORDS)

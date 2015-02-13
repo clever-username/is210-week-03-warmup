@@ -7,4 +7,4 @@ import task_03
 
 KLAXON = task_03.KLAXON
 
-print (KLAXON + ' ') * 5
+print (KLAXON + ' ')  *  5
